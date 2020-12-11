@@ -19,7 +19,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuejs)
   ![Jquery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -45,7 +45,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://emmanuelpcg.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/emmanuel-pires/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://emmanuelpcg.com/"><img alt="Website" src="https://img.shields.io/badge/Website-emmanuelpcg.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/emmanuel-pires/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Pires-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:contato@emmanuelpcg.com"><img alt="Email" src="https://img.shields.io/badge/Email-contato@emmanuelpcg.com-blue?style=flat-square&logo=gmail"></a>
 </p>
