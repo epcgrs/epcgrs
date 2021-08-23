@@ -46,5 +46,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/emmanuel-pires/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Pires-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:contato@emmanuelpcg.com"><img alt="Email" src="https://img.shields.io/badge/Email-contato@emmanuelpcg.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:emmanuelf988@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emmanuelf988@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
