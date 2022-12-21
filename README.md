@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing for web.
 - 🎓 &nbsp; graduated in Systems Analysis and Development from Uniasselvi - Porto Alegre, Brasil.
-- 💼 &nbsp; I work as a full-stack developer at ECS
+- 💼 &nbsp; I work as a full-stack developer
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
