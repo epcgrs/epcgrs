@@ -2,7 +2,14 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing for web.
+<p>
+Full-stack developer with 8+ years of hands-on experience building scalable web platforms, APIs, and custom systems across multiple industries — from marketing and e-commerce to industrial access control.
+<br><br>
+Skilled in PHP, Laravel, React, Vue.js, Node.js, WordPress, MySQL, and PostgreSQL. I’ve developed both B2B and B2C applications — including complex systems for remote management of smart locks and telecom towers, involving real-time access control, automation workflows, and alarm triggers.
+<br><br>
+I bring not only technical capability but also the mindset of a problem-solver. I’m flexible, pragmatic, and driven by agreements, results, and solid code.
+</p>
+
 - 🎓 &nbsp; graduated in Systems Analysis and Development from Uniasselvi - Porto Alegre, Brasil.
 - 💼 &nbsp; I work as a full-stack developer
 
@@ -11,6 +18,7 @@
 - 💻 &nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Wordpress](https://img.shields.io/badge/-Wordpress%20Themes-333333?style=flat&logo=wordpress)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -23,15 +31,13 @@
   ![Jquery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Postgress](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=Postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PHPstorm](https://img.shields.io/badge/-PHPstorm-333333?style=flat&logo=phpstorm)
-- 🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Visual Studio Code](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <br/>
 <br/>
