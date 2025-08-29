@@ -20,6 +20,8 @@ I bring not only technical capability but also the mindset of a problem-solver. 
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Wordpress](https://img.shields.io/badge/-Wordpress%20Themes-333333?style=flat&logo=wordpress)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
