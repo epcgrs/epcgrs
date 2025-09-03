@@ -21,6 +21,8 @@ I bring not only technical capability but also the mindset of a problem-solver. 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Wordpress](https://img.shields.io/badge/-Wordpress%20Themes-333333?style=flat&logo=wordpress)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node)
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
